@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ikjdhezkjhfzl
 ez
 *ez
@@ -6,3 +7,6 @@ es
 
 e
 rs
+=======
+gdjhhfksjflkzejlkflkjezjflkejlkfjezljflke
+>>>>>>> master
