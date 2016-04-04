@@ -7,3 +7,5 @@ angle de toit: depend encore de la perception du joueur
 entre 32 et plus (pour pouvoir caser un nouveau pan de mur)
 128 de haut pour 256 de large triangle rectangle fait bonne angle de toit
 
+Check avec taille du joueur
+
