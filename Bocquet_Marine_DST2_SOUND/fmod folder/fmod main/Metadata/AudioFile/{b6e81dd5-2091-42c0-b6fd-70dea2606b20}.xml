@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{b6e81dd5-2091-42c0-b6fd-70dea2606b20}">
+        <property name="assetPath">
+            <value>Rythmic/Broad Effects section1 72bpm Am.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6.666666666666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{bfdf0db4-c0dd-46f3-9f6c-6a613094746d}</destination>
+        </relationship>
+    </object>
+</objects>

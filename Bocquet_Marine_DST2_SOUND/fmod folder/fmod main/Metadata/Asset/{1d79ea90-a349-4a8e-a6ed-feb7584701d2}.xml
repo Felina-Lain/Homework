@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="EncodableAsset" id="{1d79ea90-a349-4a8e-a6ed-feb7584701d2}">
+        <property name="assetPath">
+            <value>Rythmic/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{bfdf0db4-c0dd-46f3-9f6c-6a613094746d}</destination>
+        </relationship>
+    </object>
+</objects>
